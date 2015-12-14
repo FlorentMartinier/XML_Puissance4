@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800">
+<rect x="684" y="0" width="114" height="133" style="fill:blue"/>
+<circle cx="741" cy="62" r="57" fill=""/>
+<rect x="570" y="0" width="114" height="133" style="fill:blue"/>
+<circle cx="627" cy="62" r="57" fill=""/>
+<rect x="456" y="0" width="114" height="133" style="fill:blue"/>
+<circle cx="513" cy="62" r="57" fill=""/>
+<rect x="342" y="0" width="114" height="133" style="fill:blue"/>
+<circle cx="399" cy="62" r="57" fill=""/>
+<rect x="228" y="0" width="114" height="133" style="fill:blue"/>
+<circle cx="285" cy="62" r="57" fill=""/>
+<rect x="114" y="0" width="114" height="133" style="fill:blue"/>
+<circle cx="171" cy="62" r="57" fill=""/>
+<rect x="0" y="0" width="114" height="133" style="fill:blue"/>
+<circle cx="57" cy="62" r="57" fill=""/>
+<rect x="684" y="133" width="114" height="133" style="fill:blue"/>
+<circle cx="741" cy="195" r="57" fill=""/>
+<rect x="570" y="133" width="114" height="133" style="fill:blue"/>
+<circle cx="627" cy="195" r="57" fill=""/>
+<rect x="456" y="133" width="114" height="133" style="fill:blue"/>
+<circle cx="513" cy="195" r="57" fill=""/>
+<rect x="342" y="133" width="114" height="133" style="fill:blue"/>
+<circle cx="399" cy="195" r="57" fill=""/>
+<rect x="228" y="133" width="114" height="133" style="fill:blue"/>
+<circle cx="285" cy="195" r="57" fill=""/>
+<rect x="114" y="133" width="114" height="133" style="fill:blue"/>
+<circle cx="171" cy="195" r="57" fill=""/>
+<rect x="0" y="133" width="114" height="133" style="fill:blue"/>
+<circle cx="57" cy="195" r="57" fill=""/>
+<rect x="684" y="266" width="114" height="133" style="fill:blue"/>
+<circle cx="741" cy="328" r="57" fill=""/>
+<rect x="570" y="266" width="114" height="133" style="fill:blue"/>
+<circle cx="627" cy="328" r="57" fill=""/>
+<rect x="456" y="266" width="114" height="133" style="fill:blue"/>
+<circle cx="513" cy="328" r="57" fill=""/>
+<rect x="342" y="266" width="114" height="133" style="fill:blue"/>
+<circle cx="399" cy="328" r="57" fill=""/>
+<rect x="228" y="266" width="114" height="133" style="fill:blue"/>
+<circle cx="285" cy="328" r="57" fill=""/>
+<rect x="114" y="266" width="114" height="133" style="fill:blue"/>
+<circle cx="171" cy="328" r="57" fill=""/>
+<rect x="0" y="266" width="114" height="133" style="fill:blue"/>
+<circle cx="57" cy="328" r="57" fill="red"/>
+<rect x="684" y="399" width="114" height="133" style="fill:blue"/>
+<circle cx="741" cy="461" r="57" fill=""/>
+<rect x="570" y="399" width="114" height="133" style="fill:blue"/>
+<circle cx="627" cy="461" r="57" fill=""/>
+<rect x="456" y="399" width="114" height="133" style="fill:blue"/>
+<circle cx="513" cy="461" r="57" fill=""/>
+<rect x="342" y="399" width="114" height="133" style="fill:blue"/>
+<circle cx="399" cy="461" r="57" fill=""/>
+<rect x="228" y="399" width="114" height="133" style="fill:blue"/>
+<circle cx="285" cy="461" r="57" fill=""/>
+<rect x="114" y="399" width="114" height="133" style="fill:blue"/>
+<circle cx="171" cy="461" r="57" fill=""/>
+<rect x="0" y="399" width="114" height="133" style="fill:blue"/>
+<circle cx="57" cy="461" r="57" fill="yellow"/>
+<rect x="684" y="532" width="114" height="133" style="fill:blue"/>
+<circle cx="741" cy="594" r="57" fill=""/>
+<rect x="570" y="532" width="114" height="133" style="fill:blue"/>
+<circle cx="627" cy="594" r="57" fill=""/>
+<rect x="456" y="532" width="114" height="133" style="fill:blue"/>
+<circle cx="513" cy="594" r="57" fill=""/>
+<rect x="342" y="532" width="114" height="133" style="fill:blue"/>
+<circle cx="399" cy="594" r="57" fill=""/>
+<rect x="228" y="532" width="114" height="133" style="fill:blue"/>
+<circle cx="285" cy="594" r="57" fill="yellow"/>
+<rect x="114" y="532" width="114" height="133" style="fill:blue"/>
+<circle cx="171" cy="594" r="57" fill="red"/>
+<rect x="0" y="532" width="114" height="133" style="fill:blue"/>
+<circle cx="57" cy="594" r="57" fill="red"/>
+<rect x="684" y="665" width="114" height="133" style="fill:blue"/>
+<circle cx="741" cy="727" r="57" fill=""/>
+<rect x="570" y="665" width="114" height="133" style="fill:blue"/>
+<circle cx="627" cy="727" r="57" fill=""/>
+<rect x="456" y="665" width="114" height="133" style="fill:blue"/>
+<circle cx="513" cy="727" r="57" fill=""/>
+<rect x="342" y="665" width="114" height="133" style="fill:blue"/>
+<circle cx="399" cy="727" r="57" fill=""/>
+<rect x="228" y="665" width="114" height="133" style="fill:blue"/>
+<circle cx="285" cy="727" r="57" fill="yellow"/>
+<rect x="114" y="665" width="114" height="133" style="fill:blue"/>
+<circle cx="171" cy="727" r="57" fill="red"/>
+<rect x="0" y="665" width="114" height="133" style="fill:blue"/>
+<circle cx="57" cy="727" r="57" fill="yellow"/>
+<line x1="0" y1="798" x2="800" y2="798" style="stroke:black;stroke-width:2"/>
+<line x1="0" y1="665" x2="800" y2="665" style="stroke:black;stroke-width:2"/>
+<line x1="0" y1="532" x2="800" y2="532" style="stroke:black;stroke-width:2"/>
+<line x1="0" y1="399" x2="800" y2="399" style="stroke:black;stroke-width:2"/>
+<line x1="0" y1="266" x2="800" y2="266" style="stroke:black;stroke-width:2"/>
+<line x1="0" y1="133" x2="800" y2="133" style="stroke:black;stroke-width:2"/>
+<line x1="798" y1="0" x2="798" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="684" y1="0" x2="684" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="570" y1="0" x2="570" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="456" y1="0" x2="456" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="342" y1="0" x2="342" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="228" y1="0" x2="228" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="114" y1="0" x2="114" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="798" y1="0" x2="798" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="684" y1="0" x2="684" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="570" y1="0" x2="570" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="456" y1="0" x2="456" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="342" y1="0" x2="342" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="228" y1="0" x2="228" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="114" y1="0" x2="114" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="798" y1="0" x2="798" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="684" y1="0" x2="684" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="570" y1="0" x2="570" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="456" y1="0" x2="456" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="342" y1="0" x2="342" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="228" y1="0" x2="228" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="114" y1="0" x2="114" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="798" y1="0" x2="798" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="684" y1="0" x2="684" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="570" y1="0" x2="570" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="456" y1="0" x2="456" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="342" y1="0" x2="342" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="228" y1="0" x2="228" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="114" y1="0" x2="114" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="798" y1="0" x2="798" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="684" y1="0" x2="684" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="570" y1="0" x2="570" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="456" y1="0" x2="456" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="342" y1="0" x2="342" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="228" y1="0" x2="228" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="114" y1="0" x2="114" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="798" y1="0" x2="798" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="684" y1="0" x2="684" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="570" y1="0" x2="570" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="456" y1="0" x2="456" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="342" y1="0" x2="342" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="228" y1="0" x2="228" y2="800" style="stroke:black;stroke-width:2"/>
+<line x1="114" y1="0" x2="114" y2="800" style="stroke:black;stroke-width:2"/>
+</svg>
