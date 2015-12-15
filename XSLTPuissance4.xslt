@@ -5,7 +5,6 @@
 	
     <xsl:template match="/puissance4">
         <svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" > 
-
             <!-- dessin des pions et de leur contours-->
             <xsl:for-each select="ligne">
                 <xsl:variable name="posLigne" select="position()" />
@@ -22,6 +21,16 @@
             <xsl:for-each select="ligne/case">
                 <line x1="{@position*114}" y1="0" x2="{@position*114}" y2="800" style="stroke:black;stroke-width:2"/>
             </xsl:for-each>
+
+            <xsl:variable name="calcul" select="(count(//ligne/case[@color='red'])) - (count(//ligne/case[@color='yellow']))" />
+
+            <xsl:if test="($calcul &gt;= -1) and ($calcul &lt;= 1)">
+                <text x="130" y="100" fill="red" font-size="30">La proportions de pions rouge/jaune est valide !</text>
+            </xsl:if>
+
+            <xsl:if test="($calcul &lt;= -1) or ($calcul &gt;= 1)">
+                <text x="130" y="100" fill="red" font-size="30">La proportion de pions rouge/jaune n'est pas valide !</text>
+            </xsl:if>
         </svg>
     </xsl:template>
 </xsl:stylesheet>
