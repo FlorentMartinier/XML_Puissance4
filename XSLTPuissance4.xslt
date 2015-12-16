@@ -24,10 +24,10 @@
 
             <xsl:variable name="calcul" select="(count(//ligne/case[@color='red'])) - (count(//ligne/case[@color='yellow']))" />
 
+            <!--test de la validité de la situation-->
             <xsl:if test="($calcul &gt;= -1) and ($calcul &lt;= 1)">
                 <text x="130" y="100" fill="red" font-size="30">La proportions de pions rouge/jaune est valide !</text>
             </xsl:if>
-
             <xsl:if test="($calcul &lt;= -1) or ($calcul &gt;= 1)">
                 <text x="130" y="100" fill="red" font-size="30">La proportion de pions rouge/jaune n'est pas valide !</text>
             </xsl:if>
